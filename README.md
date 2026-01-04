@@ -1,8 +1,8 @@
 # sai-haritha-portfolio
 A responsive personal portfolio showcasing my projects and skills using HTML, CSS, and JavaScript.
 
-# Personal Portfolio Website
-
+# My Personal Portfolio Website
+    
 ## 📌 Description
 A responsive personal portfolio website built to showcase my skills, projects, and contact information.
 
